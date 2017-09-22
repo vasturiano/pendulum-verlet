@@ -1,0 +1,1 @@
+Ok, I'm confused. Why isn't energy conserved and does the pendulum eventually stop?

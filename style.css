@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+#ball-el {
+    cursor: grab;
+    cursor: -webkit-grab;
+}
+
+#ball-el:active {
+    cursor: grabbing;
+    cursor: -webkit-grabbing;
+}
